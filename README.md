@@ -8,6 +8,9 @@ there are some modules
 4.log producer
 5.be familiar with maven & github 
 
+Python 廖雪峰
+
+前端 阮一峰
 
 打造“微信小程序”组件化开发框架
 http://geek.csdn.net/news/detail/128124

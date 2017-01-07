@@ -159,9 +159,6 @@ http://www.flvcd.com/
 Surveymonkey：帮你做在线调查
 https://fr.surveymonkey.com/user/sign-in/?ep=%2Fhome%2F%3Fjoined%3D1
  
-百度脑图：在线做思维导图
-http://naotu.baidu.com/
- 
 社工库：测试你注册过的账号的安全
 http://www.weigongkai.com/
  
